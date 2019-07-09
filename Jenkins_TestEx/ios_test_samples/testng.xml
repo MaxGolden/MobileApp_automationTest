@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <listeners>
+        <listener class-name="Listeners_Tests.Listeners_Example" />
+    </listeners>
+
+    <test verbose="2" preserve-order="true" name="/Users/mj621194/Documents/Maven_Projects/ios_test_samples">
+        <groups>
+            <run>
+                <include name="MainBase" />
+            </run>
+        </groups>
+        <classes>
+            <class name="iOS_Tests.MainBase" />
+            <class name="iOS_Tests.PreSteps" />
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true" name="NonLogin_MakePayment_PayWithCards_exceptCards01" >
+        <groups>
+            <run>
+                <include name="MakePayment" />
+            </run>
+        </groups>
+
+        <classes>
+            <class name="iOS_Tests.MakePayment_TestSample" />
+        </classes>
+    </test>
+
+
+</suite>
