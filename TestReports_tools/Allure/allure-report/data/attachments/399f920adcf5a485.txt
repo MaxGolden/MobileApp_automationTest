@@ -1,0 +1,1 @@
+INFO: The special signs should not put in the Amount field ... Failed

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 19, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 107.332 s <<< FAILURE! - in TestSuite
+MakePayment_Amount_SpecialSign1(iOS_Tests.MakePayment_TestSample)  Time elapsed: 12.545 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at iOS_Tests.MakePayment_TestSample.MakePayment_Amount_SpecialSign1(MakePayment_TestSample.java:195)
+
+MakePayment_Amount_SpecialSign4(iOS_Tests.MakePayment_TestSample)  Time elapsed: 0.507 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at iOS_Tests.MakePayment_TestSample.MakePayment_Amount_SpecialSign4(MakePayment_TestSample.java:236)
+

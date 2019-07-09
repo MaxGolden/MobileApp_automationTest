@@ -1,0 +1,537 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "CLMC02SH12YG8WM",
+    "children" : [ {
+      "name" : "24743@CLMC02SH12YG8WM.main(1)",
+      "children" : [ {
+        "name" : "MakePayment_ContinueEnable_Default2",
+        "uid" : "cf85c3d9f4f6cb1c",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615159767,
+          "stop" : 1562615171749,
+          "duration" : 11982
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Zip_Less5Numbers1",
+        "uid" : "51b1124ba7cd647",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615222507,
+          "stop" : 1562615225069,
+          "duration" : 2562
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_ContinueEnable_Default1",
+        "uid" : "9c5273afba90b167",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615154093,
+          "stop" : 1562615155058,
+          "duration" : 965
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_SpecialSign3",
+        "uid" : "82231dc69009ee18",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615207346,
+          "stop" : 1562615209264,
+          "duration" : 1918
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_ErrorM1",
+        "uid" : "edabde7de9e595b7",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615171754,
+          "stop" : 1562615182394,
+          "duration" : 10640
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_CameraAllow",
+        "uid" : "3aaa2038732dbc4b",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615147682,
+          "stop" : 1562615154087,
+          "duration" : 6405
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_ContinueDisabled2",
+        "uid" : "6f743bee48a81603",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615193313,
+          "stop" : 1562615194180,
+          "duration" : 867
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_CardNumber_Not_A_Test",
+        "uid" : "82f24c1473fddad7",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1562615146090,
+          "stop" : 1562615146091,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_ContinueDisabled1",
+        "uid" : "965e03421006a9c5",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615182399,
+          "stop" : 1562615183263,
+          "duration" : 864
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Zip_Less5Numbers2",
+        "uid" : "1b064a0fcd29326a",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615225071,
+          "stop" : 1562615225878,
+          "duration" : 807
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_SpecialSign4",
+        "uid" : "77f9c2bfffb8826a",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1562615209267,
+          "stop" : 1562615209622,
+          "duration" : 355
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Cancel",
+        "uid" : "5e2b4d6c676c486",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615225881,
+          "stop" : 1562615229657,
+          "duration" : 3776
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Name_FillAgain",
+        "uid" : "2143e8b622c82902",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615214579,
+          "stop" : 1562615217447,
+          "duration" : 2868
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Zip_Empty",
+        "uid" : "8e009e61319638b4",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615217452,
+          "stop" : 1562615222503,
+          "duration" : 5051
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_PayWithCards",
+        "uid" : "6f73b6c090fd6dc4",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615146113,
+          "stop" : 1562615147676,
+          "duration" : 1563
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_SpecialSign1",
+        "uid" : "ab39b1f60df9732a",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1562615194182,
+          "stop" : 1562615206824,
+          "duration" : 12642
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_ErrorM2",
+        "uid" : "47c358d3a415b215",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615183266,
+          "stop" : 1562615193308,
+          "duration" : 10042
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Name_Empty",
+        "uid" : "408b01d6568308a3",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615209839,
+          "stop" : 1562615214572,
+          "duration" : 4733
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_SpecialSign2",
+        "uid" : "1ec849472e0a8386",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615207036,
+          "stop" : 1562615207344,
+          "duration" : 308
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_MoreInfoIcon",
+        "uid" : "79c2e49c1c550361",
+        "parentUid" : "aa3e4f1aea695fda9d8e4e9e67fabea0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562615155062,
+          "stop" : 1562615159762,
+          "duration" : 4700
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aa3e4f1aea695fda9d8e4e9e67fabea0"
+    }, {
+      "name" : "25721@CLMC02SH12YG8WM.main(1)",
+      "children" : [ {
+        "name" : "MakePayment_Amount_ErrorM2",
+        "uid" : "dd9d7b31bb963ee9",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616643951,
+          "stop" : 1562616653822,
+          "duration" : 9871
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_MoreInfoIcon",
+        "uid" : "3fbc736a5356308d",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616617143,
+          "stop" : 1562616621705,
+          "duration" : 4562
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_CameraAllow",
+        "uid" : "b92d367b91692eb5",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616610016,
+          "stop" : 1562616616252,
+          "duration" : 6236
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_ContinueEnable_Default2",
+        "uid" : "67c966f6e343af02",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616621710,
+          "stop" : 1562616632652,
+          "duration" : 10942
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Zip_Less5Numbers2",
+        "uid" : "12a40da85caa8c32",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616684999,
+          "stop" : 1562616685791,
+          "duration" : 792
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Zip_Less5Numbers1",
+        "uid" : "26e49bba99ad2054",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616682469,
+          "stop" : 1562616684996,
+          "duration" : 2527
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Name_FillAgain",
+        "uid" : "d4097718652bc904",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616674846,
+          "stop" : 1562616677568,
+          "duration" : 2722
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_ContinueDisabled2",
+        "uid" : "5ff612e009ff07d6",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616653826,
+          "stop" : 1562616654647,
+          "duration" : 821
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_SpecialSign2",
+        "uid" : "97b59a9c023cea51",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616667365,
+          "stop" : 1562616667671,
+          "duration" : 306
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_ContinueEnable_Default1",
+        "uid" : "28c38adcde1981e0",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616616260,
+          "stop" : 1562616617140,
+          "duration" : 880
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_SpecialSign3",
+        "uid" : "5e4300ebb6d1e671",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616667674,
+          "stop" : 1562616669554,
+          "duration" : 1880
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_CardNumber_Not_A_Test",
+        "uid" : "d93419fe5cf4dc3d",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1562616608315,
+          "stop" : 1562616608317,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Zip_Empty",
+        "uid" : "789c35d48e6eb04e",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616677609,
+          "stop" : 1562616682465,
+          "duration" : 4856
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_SpecialSign4",
+        "uid" : "c28b8545946335a3",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "failed",
+        "time" : {
+          "start" : 1562616669556,
+          "stop" : 1562616670062,
+          "duration" : 506
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_SpecialSign1",
+        "uid" : "4b3b14f3c9ca2509",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "failed",
+        "time" : {
+          "start" : 1562616654649,
+          "stop" : 1562616667193,
+          "duration" : 12544
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_ContinueDisabled1",
+        "uid" : "af549482dec1952b",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616643121,
+          "stop" : 1562616643948,
+          "duration" : 827
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Amount_ErrorM1",
+        "uid" : "f4daecfdf6306e0f",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616632658,
+          "stop" : 1562616643117,
+          "duration" : 10459
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_PayWithCards",
+        "uid" : "357914adf1fbbebd",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616608348,
+          "stop" : 1562616609997,
+          "duration" : 1649
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Name_Empty",
+        "uid" : "846f23e14ef895d9",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616670260,
+          "stop" : 1562616674798,
+          "duration" : 4538
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "MakePayment_Cancel",
+        "uid" : "aa70e839aa029f50",
+        "parentUid" : "6d3dc1a5273758cf1a9bc865cf46ea30",
+        "status" : "passed",
+        "time" : {
+          "start" : 1562616685794,
+          "stop" : 1562616689571,
+          "duration" : 3777
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6d3dc1a5273758cf1a9bc865cf46ea30"
+    } ],
+    "uid" : "2d7fa37d7c08b32b564f08a9b0f76be8"
+  } ]
+}

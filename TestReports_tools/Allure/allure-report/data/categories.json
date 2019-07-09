@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "null",
+      "children" : [ {
+        "name" : "MakePayment_Amount_SpecialSign1",
+        "uid" : "4b3b14f3c9ca2509",
+        "parentUid" : "666d1a31450af3ae8459f14f07f9a1b4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1562616654649,
+          "stop" : 1562616667193,
+          "duration" : 12544
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "666d1a31450af3ae8459f14f07f9a1b4"
+    }, {
+      "name" : "expected [true] but found [false]",
+      "children" : [ {
+        "name" : "MakePayment_Amount_SpecialSign4",
+        "uid" : "c28b8545946335a3",
+        "parentUid" : "067aa11ae245eca950dc984999fefd6d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1562616669556,
+          "stop" : 1562616670062,
+          "duration" : 506
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "067aa11ae245eca950dc984999fefd6d"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

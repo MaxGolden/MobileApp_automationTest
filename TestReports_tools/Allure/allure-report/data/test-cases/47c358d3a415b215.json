@@ -1,0 +1,98 @@
+{
+  "uid" : "47c358d3a415b215",
+  "name" : "MakePayment_Amount_ErrorM2",
+  "fullName" : "iOS_Tests.MakePayment_TestSample.MakePayment_Amount_ErrorM2",
+  "historyId" : "482630492b448315c570034d7abb08cc",
+  "time" : {
+    "start" : 1562615183266,
+    "stop" : 1562615193308,
+    "duration" : 10042
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1562615018086,
+      "stop" : 1562615137282,
+      "duration" : 119196
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1562615229707,
+      "stop" : 1562615230767,
+      "duration" : 1060
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "iOS_Tests.MakePayment_TestSample"
+  }, {
+    "name" : "testClass",
+    "value" : "iOS_Tests.MakePayment_TestSample"
+  }, {
+    "name" : "testMethod",
+    "value" : "MakePayment_Amount_ErrorM2"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "NonLogin_MakePayment_PayWithCards_exceptCards01"
+  }, {
+    "name" : "subSuite",
+    "value" : "iOS_Tests.MakePayment_TestSample"
+  }, {
+    "name" : "host",
+    "value" : "CLMC02SH12YG8WM"
+  }, {
+    "name" : "thread",
+    "value" : "24743@CLMC02SH12YG8WM.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "Make_payment"
+  }, {
+    "name" : "epic",
+    "value" : "Allure_Examples"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47c358d3a415b215.json",
+  "parameterValues" : [ ]
+}

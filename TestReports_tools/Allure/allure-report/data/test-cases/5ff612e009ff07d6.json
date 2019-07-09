@@ -1,0 +1,108 @@
+{
+  "uid" : "5ff612e009ff07d6",
+  "name" : "MakePayment_Amount_ContinueDisabled2",
+  "fullName" : "iOS_Tests.MakePayment_TestSample.MakePayment_Amount_ContinueDisabled2",
+  "historyId" : "9792a192788ea43c5b5e1ed87010d46e",
+  "time" : {
+    "start" : 1562616653826,
+    "stop" : 1562616654647,
+    "duration" : 821
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1562616584846,
+      "stop" : 1562616599494,
+      "duration" : 14648
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1562616689726,
+      "stop" : 1562616690901,
+      "duration" : 1175
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "iOS_Tests.MakePayment_TestSample"
+  }, {
+    "name" : "testClass",
+    "value" : "iOS_Tests.MakePayment_TestSample"
+  }, {
+    "name" : "testMethod",
+    "value" : "MakePayment_Amount_ContinueDisabled2"
+  }, {
+    "name" : "parentSuite",
+    "value" : "All Test Suite"
+  }, {
+    "name" : "suite",
+    "value" : "NonLogin_MakePayment_PayWithCards_exceptCards01"
+  }, {
+    "name" : "subSuite",
+    "value" : "iOS_Tests.MakePayment_TestSample"
+  }, {
+    "name" : "host",
+    "value" : "CLMC02SH12YG8WM"
+  }, {
+    "name" : "thread",
+    "value" : "25721@CLMC02SH12YG8WM.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "Allure_Examples"
+  }, {
+    "name" : "feature",
+    "value" : "Make_payment"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6f743bee48a81603",
+      "status" : "passed",
+      "time" : {
+        "start" : 1562615193313,
+        "stop" : 1562615194180,
+        "duration" : 867
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5ff612e009ff07d6.json",
+  "parameterValues" : [ ]
+}
